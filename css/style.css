@@ -371,6 +371,10 @@ footer{
     font-weight: 700;
     padding-bottom: 20px;
 }
+.footer-heading-link{
+    text-decoration: none;
+    color:#FFFFFF;
+}
 .footer-wrapper {
     display: flex;
     align-items: center;

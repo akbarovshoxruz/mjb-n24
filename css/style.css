@@ -39,11 +39,14 @@ nav{
     height: 26px;
     font-size: 20px;
     font-weight: 600;
-    color: #7296EE;
     background-color: #FFFFFF;
     border-radius: 6px;
     text-align: center;
     padding-top: 2px;
+}
+.navbar-link{
+    text-decoration: none;
+    color: #7296EE;
 }
 .navbar-logo-curs {
     width: 160px;
@@ -606,7 +609,7 @@ footer{
     position: absolute;
     right: 20px;
     top: 20px;
-    font-size: 12px;
+    font-size: 14px;
     cursor: pointer;
 }
 .modal-content-info {
